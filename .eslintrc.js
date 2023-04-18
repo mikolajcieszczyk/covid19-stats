@@ -12,14 +12,14 @@ module.exports = {
   },
   plugins: ['react', 'prettier'],
   rules: {
-    prettier: {
-      'space-before-function-paren': ['error', 'never'],
-    },
+    // prettier: {
+    //   'space-before-function-paren': ['error', 'never'],
+    // },
     semi: 0,
     'comma-dangle': 0,
-    rules: {
-      'space-before-function-paren': ['error', 'never'],
-    },
+    // rules: {
+    //   'space-before-function-paren': ['error', 'never'],
+    // },
     'prettier/prettier': 'error',
     'react/jsx-filename-extension': [
       1,
