@@ -2,8 +2,7 @@
 
 An application used to present data about COVID-19, built with Typescript, React, Redux-Toolkit and BlueprintJS.
 
-<img src="https://skillicons.dev/icons?i=ts,react,redux,blueprint" width="158" title="blueprintjs">
-<img src="https://cloud.githubusercontent.com/assets/464822/20228152/d3f36dc2-a804-11e6-80ff-51ada2d13ea7.png" width="158" title="blueprintjs">
+<img src="https://skillicons.dev/icons?i=ts,react,redux,bootstrap" width="158" title="blueprintjs">
 
 # Installation:
 
