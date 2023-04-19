@@ -1,6 +1,6 @@
 # COVID-19 Statistics
 
-An application used to present data about COVID-19, built with Typescript, React, Redux-Toolkit and BlueprintJS.
+An application used to present data about COVID-19, built with Typescript, React, Redux-Toolkit and Bootstrap.
 
 <img src="https://skillicons.dev/icons?i=ts,react,redux,bootstrap" width="158" title="blueprintjs">
 
