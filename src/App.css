@@ -17,10 +17,10 @@
 }
 
 html {
-  background-color: var(--main-grey-color);
-  color: var(--almost-white-color);
-  font-family: var(--ff-roboto);
-  font-size: var(--fs-18);
+  background-color: var(--main-grey-color) !important;
+  color: var(--almost-white-color) !important;
+  font-family: var(--ff-roboto) !important;
+  font-size: var(--fs-18) !important;
 }
 
 body {
